@@ -1,9 +1,9 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
 
-<H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+# Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
+
+### Name: SRINATH N
+### Register Number:2305003009
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -133,6 +133,9 @@ print(query_result)
 ```
 ---
 ## Output:
+<img width="815" height="66" alt="image" src="https://github.com/user-attachments/assets/822babc1-43f4-4213-9d77-71a95dd1839d" />
+<img width="659" height="524" alt="image" src="https://github.com/user-attachments/assets/ad3b2af3-9d23-4ebf-a92a-7600aeff1ab8" />
+<img width="796" height="126" alt="image" src="https://github.com/user-attachments/assets/d388b86c-dac0-4fda-b676-cef01b09d2b9" />
 
 
 ---
